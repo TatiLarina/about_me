@@ -16,6 +16,6 @@ https://disk.yandex.ru/d/mIRKH4RnzWEtwQ
 https://github.com/TatiLarina/testtask_ingolikils
 3. Тестовое задание: тестирование сайта https://www.dostavka-tsvetov.com/, use case, test case, найденные баги
 https://disk.yandex.ru/i/Ls5ReqFXe2VoJw
-4. Пример написания авто-тестов Java+Selenide: https://github.com/TatiLarina/dostavka_tsvetov
+4. Пример написания авто-тестов Java+Selenide (тестирование веб-сайта): https://github.com/TatiLarina/dostavka_tsvetov
 
 
